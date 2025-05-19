@@ -28,6 +28,7 @@ public class EpisodesController {
     public Episodes save(@RequestBody Episodes episodes) {
         return episodesService.save(episodes);
     }
+//   too
 
     @GetMapping("/episodesAll")
     @CrossOrigin
