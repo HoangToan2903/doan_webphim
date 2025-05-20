@@ -12,7 +12,8 @@ import MovieTrending from './movietrending';
 function Content() {
     const navigate = useNavigate();
 
-// fgdfgdf
+// fgdfgdfx
+
 
     const [moviesle, setMovieLe] = useState([]);
     const [moviesbo, setMovieBo] = useState([]);
